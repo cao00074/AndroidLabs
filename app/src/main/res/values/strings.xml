@@ -1,9 +1,21 @@
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">AndroidLabs</string>
     <string name="hello_message">Hello World!</string>
-    <string name="ButtonText">i\'m a button</string>
+    <string name="ButtonText">I\'m a button</string>
+    <string name="Start_Chat">Start Chat</string>
+    <string name="button_send">Send</string>
     <string name="Login">Login</string>
     <string name="login_name">login name</string>
     <string name="password">passward</string>
-
+    <string name="button">Log in</string>
+    <string name="radioButton">RadioButton</string>
+    <string name="checkBox">CheckBox</string>
+    <string name="switchButton">What does this do?</string>
+    <string name="dialog_message">Do you want to exit?</string>
+    <string name="dialog_title">Confirm</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="toast1">Swtich is On</string>
+    <string name="toast2">Swtich is Off</string>
+    <string name="Response">ListItemsActivity passed: My information to share</string>
 </resources>

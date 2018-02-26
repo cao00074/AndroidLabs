@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">安卓应用</string>
     <string name="hello_message">你好!</string>
     <string name="ButtonText">我是一个按钮</string>
+    <string name="Start_Chat">开始聊天</string>
+    <string name="button_send">发送</string>
     <string name="Login">登录</string>
     <string name="login_name">用户名</string>
     <string name="password">密码</string>
-
+    <string name="button">登录</string>
+    <string name="radioButton">单选按钮</string>
+    <string name="checkBox">勾选框</string>
+    <string name="switchButton">这是干啥的？</string>
+    <string name="dialog_message">你想推出吗？</string>
+    <string name="dialog_title">确认</string>
+    <string name="ok">想</string>
+    <string name="cancel">不想</string>
+    <string name="toast1">已启用</string>
+    <string name="toast2">已关闭</string>
+    <string name="Response">ListItemsActivity文件已传递：共享信息</string>
 </resources>
